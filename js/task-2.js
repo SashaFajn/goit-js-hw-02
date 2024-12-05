@@ -2,7 +2,7 @@
     
 
 function formatMessage(message, maxLength) {
-    if (message.lenght <= maxLength)
+    if (message.length <= maxLength)
     { return message; }
     else 
     {
